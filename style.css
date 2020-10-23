@@ -11,6 +11,7 @@ body{
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    border: #eee solid 2rem;
 }
 p{
     color: white;
